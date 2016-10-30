@@ -1,0 +1,148 @@
+body {
+    font-family: Verdana, Arial, sans-serif;
+    font-size: smaller;
+    padding: 50px;
+    color: #555;
+}
+
+
+#data {
+    float: left;   
+    width: 1000px;
+    height: 400px;
+    color:#c5e7e0 ; 
+}
+#data > #data1 {
+ float: left;   
+ height: 400px;
+ width: 430px;
+ padding: 0px;
+ background-color: #c5e7e0; 
+ color: #3366CC;
+ text-align: left;
+}
+#data > #data5 {
+ float: left;   
+ height: 400px;
+ width: 600px;
+ padding: 0px;
+ background-color: #c5e7e0; 
+ color: #3366CC;
+
+}
+#data > #data6 {
+ float: left;   
+ height: 400px;
+ width: 350px;
+ padding: 0px;
+ background-color: #c5e7e0; 
+ color: #3366CC;
+
+}
+#data > #data7 {
+ float: left;   
+ height: 400px;
+ width: 300px;
+ padding: 0px;
+ background-color: #c5e7e0; 
+ color: #3366CC;
+
+}
+#data > #data2 {
+float: left; 
+ height: 400px;
+ width: 300px;
+ padding: 0px;
+background-color: #c5e7e0; 
+ color: #3366CC; 
+}
+#data > #data3 {
+float: right; 
+ height: 400px;
+ width: 270px;
+ padding: 0px;
+background-color: #c5e7e0; 
+ color: #3366CC; 
+}
+#data > #data1 > .amanda {
+     position:fixed;
+ top: 200px;
+ height: 200px;
+ width: 300px;
+ float: left;
+ background-color: #c5e7e0; 
+ color: #3366CC; 
+ text-align: center;
+}
+
+#data > #data1 > .amanda2 {
+     position:fixed;
+ top: 200px;
+ height: 200px;
+ width: 300px;
+  float: left;
+ background-color: #c5e7e0; 
+ color: #3366CC; 
+ text-align: center;
+}
+#data > #data1> #msg {
+    height: 300px;
+    width: 430px;
+    margin-top: 100px;
+    margin-left: 25px;
+    text-align: center;
+    background-color:darkblue ; 
+    font-size: 38px;
+}
+
+h1 {
+    text-align: left;
+    letter-spacing: 6px;
+    font-size: 20px;
+    color: #be7429;
+    font-weight: normal;
+    width: 450px;
+    font-style: oblique;
+    
+}
+
+table {
+    width: 300px;
+    padding: 0px;
+    background-color: #c5e7e0;
+    float: left;
+}
+
+th {
+    text-align: left;
+    border-bottom: 0px ;
+    
+}
+
+td {
+    padding: 5px;
+}
+
+a:link {
+    color: #be7429;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+a:link:hover {
+    color: #be7429;
+    font-weight: normal;
+    text-decoration: underline;
+}
+
+#hb {
+    width: 150em;  height: 2em;
+}
+
+#cm {
+    width: 10em;  height: 2em;
+}
+
+#lb {
+    width: 10em;  height: 2em;
+}

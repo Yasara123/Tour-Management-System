@@ -1,0 +1,101 @@
+body {
+    font-family: Verdana, Arial, sans-serif;
+    font-size: smaller;
+    padding: 50px;
+    color: #555;
+}
+
+
+#data {
+    float: left;   
+    width: 1200px;
+    height: 800px;
+    color:#c5e7e0 ; 
+    background-color: lightseagreen;
+}
+#data > #data1 {
+ float: left;   
+ height: 400px;
+ width: 430px;
+ padding-top:100px;
+ padding-left: 70px;
+ color: #3366CC;
+ text-align: left;
+}
+
+#data > #data2 {
+float: left; 
+ height: 400px;
+ width: 300px;
+ padding-top:100px;
+ color: #3366CC; 
+}
+#data > #data3 {
+float: left; 
+ height: 400px;
+ width: 270px;
+padding-top:100px;
+ color: #3366CC; 
+}
+
+#data > #data1> #msg {
+    height: 300px;
+    width: 430px;
+    margin-top: 100px;
+    margin-left: 25px;
+    text-align: center;
+    background-color:darkblue ; 
+    font-size: 38px;
+    
+}
+
+h1 {
+    text-align: left;
+    letter-spacing: 6px;
+    font-size: 22px;
+    color: black;
+    font-weight: normal;
+    width: 450px;
+    font-style: oblique;
+    
+}
+
+table {
+    width: 300px;
+    padding: 0px;
+    float: left;
+}
+
+th {
+    text-align: left;
+    border-bottom: 0px ;
+    
+}
+
+td {
+    padding: 5px;
+}
+
+a:link {
+    color: #be7429;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+a:link:hover {
+    color: #be7429;
+    font-weight: normal;
+    text-decoration: underline;
+}
+
+#hb {
+    width: 150em;  height: 2em;
+}
+
+#cm {
+    width: 10em;  height: 2em;
+}
+
+#lb {
+    width: 10em;  height: 2em;
+}
